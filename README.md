@@ -18,11 +18,11 @@ To uncover trends and relationships in movie data over more than a century, and 
 
  Key Features
 
-✔ Data cleaning & preprocessing
-✔ Trend and distribution analysis
-✔ Regression model to study correlations
-✔ Visualizations of ratings, revenue & popularity over time
-✔ Insights derived from a 100+ year movie dataset
+1. Data cleaning & preprocessing<br />
+2. Trend and distribution analysis<br />
+3. Regression model to study correlations<br />
+4. Visualizations of ratings, revenue & popularity over time<br />
+5. Insights derived from a 100+ year movie dataset<br />
 
 ** Analysis Overview**
 
@@ -71,7 +71,7 @@ So,by that estimated revenue would be-$4,563,400 USD
 
 **This may sound less because i have included data before 2000s which made the plot so.**
 
-**🏁 Conclusion**
+** Conclusion**
 
 This project reveals how the movie industry has evolved over the last century using statistical regression and visual analytics.
 It helps understand trends in audience preferences, movie success factors, and historical transitions in cinema.
